@@ -33,7 +33,7 @@ If you want to have more than one IPv6 configured on your server (or want to use
 
 > [!primary]
 >
-> The default gateway for your IPv6 block (IPv6_GATEWAY) is usually xxxx.xxxx.xxxx.xxFF:FF:FF:FF:FF. Please note that the leading "0's" can be removed in an IPv6 to avoid errors when calculating the gateway. 
+> The default gateway for your IPv6 block (IPv6_GATEWAY) is usually xxxx.xxxx.xxxx.xxFF:FF:FF:FF:FF. Please note that the leading "0's" can be removed in an IPv6 to avoid errors when determining the gateway. 
 
 >
 > For example:

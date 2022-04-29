@@ -33,7 +33,7 @@ Si vous souhaitez configurer plusieurs adresses IPv6 sur votre serveur (ou si vo
 
 > [!primary]
 >
-> La passerelle par défaut de votre bloc IPv6 (IPv6_GATEWAY) demeure xxxx.xxxx.xxxx.xxFF:FF:FF:FF:FF. Veuillez noter que les "0" de tête peuvent être supprimés dans une IPv6 afin d'éviter des erreurs lors du calcul de la passerelle. 
+> La passerelle par défaut de votre bloc IPv6 (IPv6_GATEWAY) demeure xxxx.xxxx.xxxx.xxFF:FF:FF:FF:FF. Veuillez noter que les "0" de tête peuvent être supprimés dans une IPv6 afin d'éviter des erreurs lors de la determination de la passerelle. 
 >
 > Par exemple :
 > 
