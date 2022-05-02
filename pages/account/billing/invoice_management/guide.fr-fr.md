@@ -86,6 +86,11 @@ En cliquant sur l'un des boutons `...`{.action} à droite du tableau, vous pourr
 
 ![Actions sur les factures](images/actions_choices.png){.thumbnail}
 
+> [!primary]
+>
+> Si l'une de vos factures est en attente de paiement, un bouton `Régler mon solde immédiatement`{.action} apparaîtra également en cliquant sur `...`{.action}.
+>
+
 ##### **Filtres**
 
 Plusieurs filtres sont également à votre disposition :
