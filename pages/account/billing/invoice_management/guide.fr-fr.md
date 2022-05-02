@@ -5,7 +5,7 @@ excerpt: Découvrez comment gérer vos factures et les paiements liés à celles
 section: Facturation
 ---
 
-**Dernière mise à jour le 19/04/2022**
+**Dernière mise à jour le 02/05/2022**
 
 ## Objectif
 
@@ -15,7 +15,7 @@ OVHcloud met à votre disposition un espace vous permettant de consulter, gérer
 
 > [!primary]
 >
-> En fonction de votre lieu de résidence et de sa législation en vigueur, ainsi que du ou des produits concernés, il est possible que certaines parties de ce guide varient et/ou ne s’appliquent pas selon votre situation. Si vous avez le moindre doute, référez-vous à vos contrats OVHcloud disponibles dans votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr) (Cliquez en haut à droite de votre écran sur votre nom puis, dans le menu contextuel, sur `Gestion des services`{.action} puis sur l'onglet `Contrats`{.action}.
+> En fonction de votre lieu de résidence et de sa législation en vigueur, ainsi que du ou des produits concernés, il est possible que certaines parties de ce guide varient et/ou ne s’appliquent pas selon votre situation. Si vous avez le moindre doute, référez-vous à vos contrats OVHcloud disponibles dans votre [espace client OVHcloud](https://www.ovh.com/auth/?action=gotomanager&from=https://www.ovh.com/fr/&ovhSubsidiary=fr) (Cliquez en haut à droite de votre écran sur votre nom puis, dans le menu contextuel, sur `Gestion des services`{.action} puis sur l'onglet `Contrats`{.action}).
 >
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iiQmopMhzik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -33,7 +33,7 @@ OVHcloud met à votre disposition un espace vous permettant de consulter, gérer
 
 ### Comprendre votre facture
 
-La facture de votre service OVHcloud vous est envoyée suite au règlement d'une commande ou à un renouvellement. Elle récapitule les montants correspondant à l'acaht ou au renouvellement de vos produits, ainsi que leurs périodes de validité. La référence d'une facture, pour un compte français, commence toujours par les lettres **FR**.
+La facture de votre service OVHcloud vous est envoyée suite au règlement d'une commande ou à un renouvellement. Elle récapitule les montants correspondant à l'achat ou au renouvellement de vos produits, ainsi que leurs périodes de validité. La référence d'une facture, pour un compte français, commence toujours par les lettres **FR**.
 
 ![Détail d'une facture](images/invoice_ovh.png){.thumbnail}
 
@@ -62,7 +62,7 @@ Pour consulter vos factures, rendez-vous dans votre [espace client OVHcloud](htt
 
 > [!primary]
 >
-> Si le solde à régler apparaît en rouge, cela signifie qu'une facture est en attente de paiement. La date à laquelle la facture est due vous indiquera qu'un paiement est à effectuer immédiatement.
+> Si une facture est en attente de règlement (statut `Impayé`), le montant dû sera indiqué en rouge dans la colonne `Solde`.
 >
 
 Vous arriverez alors sur une page récapitulative de vos différentes factures :
